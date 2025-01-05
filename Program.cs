@@ -7,5 +7,7 @@
             Console.WriteLine(area); 
             float areaFloat= (float)area;
             Console.WriteLine(areaFloat); 
+            decimal areaDecimal=(decimal)area;
+             Console.WriteLine(areaDecimal);
         }
        
