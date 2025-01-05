@@ -5,4 +5,7 @@
         if(isDouble){
             double area = numberDouble*numberDouble*Math.PI;
             Console.WriteLine(area); 
+            float areaFloat= (float)area;
+            Console.WriteLine(areaFloat); 
         }
+       

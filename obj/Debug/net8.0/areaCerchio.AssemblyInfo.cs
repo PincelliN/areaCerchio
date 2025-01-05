@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("areaCerchio")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+3c07f8e039c5afc514211db4a997bb7b5731e3a7")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+7fb844f7214cd1e8cf0c4aca008fbca183046b19")]
 [assembly: System.Reflection.AssemblyProductAttribute("areaCerchio")]
 [assembly: System.Reflection.AssemblyTitleAttribute("areaCerchio")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
