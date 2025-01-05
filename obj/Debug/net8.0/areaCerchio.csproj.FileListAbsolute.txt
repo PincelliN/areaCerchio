@@ -1,0 +1,15 @@
+C:\Users\pince\Documents\csharp\areaCerchio\bin\Debug\net8.0\areaCerchio.exe
+C:\Users\pince\Documents\csharp\areaCerchio\bin\Debug\net8.0\areaCerchio.deps.json
+C:\Users\pince\Documents\csharp\areaCerchio\bin\Debug\net8.0\areaCerchio.runtimeconfig.json
+C:\Users\pince\Documents\csharp\areaCerchio\bin\Debug\net8.0\areaCerchio.dll
+C:\Users\pince\Documents\csharp\areaCerchio\bin\Debug\net8.0\areaCerchio.pdb
+C:\Users\pince\Documents\csharp\areaCerchio\obj\Debug\net8.0\areaCerchio.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\pince\Documents\csharp\areaCerchio\obj\Debug\net8.0\areaCerchio.AssemblyInfoInputs.cache
+C:\Users\pince\Documents\csharp\areaCerchio\obj\Debug\net8.0\areaCerchio.AssemblyInfo.cs
+C:\Users\pince\Documents\csharp\areaCerchio\obj\Debug\net8.0\areaCerchio.csproj.CoreCompileInputs.cache
+C:\Users\pince\Documents\csharp\areaCerchio\obj\Debug\net8.0\areaCerchio.sourcelink.json
+C:\Users\pince\Documents\csharp\areaCerchio\obj\Debug\net8.0\areaCerchio.dll
+C:\Users\pince\Documents\csharp\areaCerchio\obj\Debug\net8.0\refint\areaCerchio.dll
+C:\Users\pince\Documents\csharp\areaCerchio\obj\Debug\net8.0\areaCerchio.pdb
+C:\Users\pince\Documents\csharp\areaCerchio\obj\Debug\net8.0\areaCerchio.genruntimeconfig.cache
+C:\Users\pince\Documents\csharp\areaCerchio\obj\Debug\net8.0\ref\areaCerchio.dll
